@@ -1,0 +1,11 @@
+.mail-container {
+  display: flex;
+  width: 400px;
+  flex-direction: column;
+  justify-content: space-between;
+  cursor: pointer;
+}
+.mail-option {
+  display: flex;
+  justify-content: flex-end;
+}
